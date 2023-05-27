@@ -2,7 +2,7 @@
 # Información General
 
 ## Aplicación Objetivo
-- Ghost v 5.41.0 
+- Ghost v 5.47.1 
 
 ## Funcionalidades Objetivas 
 - Log in 
