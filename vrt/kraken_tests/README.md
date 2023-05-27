@@ -107,7 +107,7 @@ Donde sc01 indica el numero del escenario y v5.47.1 la versión del aplicativo p
 
 2. Abrir la carpeta **vrt/kraken_tests/ResembleJS_kraken** con el IDE de su gusto. Esta será nuestra carpeta raiz de ahora en adelante para realizar nuestras pruebas de regrsión
 
-3. Ejecutar en la raíz del proyecto: <br> npm install
+3. Ejecutar en **vrt/kraken_tests/ResembleJS_kraken** el siguiente comando: <br> npm install
 
 ### Ejecucion de pruebas de regresion visual con Resemblejs
 
