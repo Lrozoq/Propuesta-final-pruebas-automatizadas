@@ -1,5 +1,5 @@
 node_modules/
-reconocimiento/monkey/package-lock
+reconocimiento/monkey/package-lock.json
 reconocimiento/monkey/results
 kraken_tests/kraken_project/package-lock.json
 kraken_tests/kraken_project/package.json
