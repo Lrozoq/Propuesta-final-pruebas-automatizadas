@@ -1,3 +1,7 @@
+# Aplicación objetivo
+Ghost v.5.47.1
+
+
 # Pruebas de reconocimiento con Monkeys
 Con la herramient [Monkey-cypress](https://github.com/TheSoftwareDesignLab/monkey-cypress) se pueden realizar pruebas de reconocimiento generando automaticamente entradas y eventos sobre la interfaz grafica usando monkeys 
 
