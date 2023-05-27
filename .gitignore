@@ -1,7 +1,13 @@
 node_modules/
 reconocimiento/monkey/package-lock.json
 reconocimiento/monkey/results
-kraken_tests/kraken_project/package-lock.json
-kraken_tests/kraken_project/package.json
-kraken_tests/kraken_project/.kraken
-kraken_tests/kraken_project/reports
+
+vrt/kraken_tests/kraken_project/package-lock.json
+vrt/kraken_tests/kraken_project/package.json
+vrt/kraken_tests/kraken_project/.kraken
+vrt/kraken_tests/kraken_project/reports
+
+e2e/kraken_tests/kraken_project/package-lock.json
+e2e/kraken_tests/kraken_project/package.json
+e2e/kraken_tests/kraken_project/.kraken
+e2e/kraken_tests/kraken_project/reports
