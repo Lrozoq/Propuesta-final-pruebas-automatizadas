@@ -6,6 +6,7 @@
 
 ## Funcionalidades Objetivas 
 - Log in 
+
 - Crear Post 
 
 - Editar Post 
@@ -30,13 +31,18 @@
 
 - Crear una nueva pagina
 
+- Eliminar una página
+
 - Editar una nueva pagina
 
-- Editar la zona horaria de la pagina
+-Editar título y descripción del sitio
+
+- Editar la zona horaria del sitio
 
 - Editar el idioma de las publicaciones de la página.
 
 - Activar o desactivar el modo oscuro
+
 - Cambio de contraseña
 
 ## Escenarios de pruebas definidos: 
@@ -50,7 +56,7 @@
 Kraken es una herramienta de código abierto para realizar pruebas automáticas del tipo E2E con aplicaciones móviles para Android y aplicaciones WEB. Esta soporta escenarios donde es requerida la intercomunicación entre usuarios o dispositivos 
 
 ### Librerías utilizadas: 
-- Node 16.13.0
+- **Usar version de Node 16.13.0**
 - **kraken-node v.1.0.24** 
 - Cucumber v.7.2.1
 - node-fetch2
