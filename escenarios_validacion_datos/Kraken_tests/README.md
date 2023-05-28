@@ -50,7 +50,7 @@
 Kraken es una herramienta de código abierto para realizar pruebas automáticas del tipo E2E con aplicaciones móviles para Android y aplicaciones WEB. Esta soporta escenarios donde es requerida la intercomunicación entre usuarios o dispositivos 
 
 ### Librerías utilizadas: 
-- Node +16.13.0
+- Node 16.13.0
 - **kraken-node v.1.0.24** 
 - Cucumber v.7.2.1
 - node-fetch2

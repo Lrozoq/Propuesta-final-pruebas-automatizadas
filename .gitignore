@@ -11,3 +11,7 @@ e2e/kraken_tests/kraken_project/package-lock.json
 e2e/kraken_tests/kraken_project/package.json
 e2e/kraken_tests/kraken_project/.kraken
 e2e/kraken_tests/kraken_project/reports
+
+escenarios_validacion_datos/Kraken_tests/kraken_project/package-lock.json
+escenarios_validacion_datos/Kraken_tests/kraken_project/package.json
+escenarios_validacion_datos/Kraken_tests/kraken_project/reports/
