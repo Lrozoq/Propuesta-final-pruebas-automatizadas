@@ -38,5 +38,5 @@ Con la libería [RIPuppet](https://github.com/TheSoftwareDesignLab/RIPuppetCours
 2. Moverse a la carpeta results 
 3. Ejecutar el siguiente comando para crear un servidor local con los archivos del directorio actual: <br> http-server
 4. Visitar desde el navegador a la ruta: <br> http://localhost:8080/
-5. Explorar los resultados según el navegador que quiera reviasar
+5. Explorar los resultados según el navegador que quiera revisar
 
