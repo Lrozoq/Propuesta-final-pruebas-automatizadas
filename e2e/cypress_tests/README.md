@@ -44,9 +44,9 @@ Cypress es un framework de pruebas automatizadas para aplicaciones web. Se utili
  
 ### Preparación del ambiente 
 
-1. Descargar el repositorio https://github.com/danierazome/Pruebas-automatizadas de la rama master 
+1. Descargar el repositorio https://github.com/Lrozoq/Propuesta-final-pruebas-automatizadas.git de la rama master 
 
-2. Abrir la carpeta kraken_tests/cypress_tests/ con el IDE de su gusto 
+2. Abrir la carpeta e2e/cypress_tests/ con el IDE de su gusto 
 
 3. Ejecutar en la raíz del proyecto:  npm install cypress --save-dev para descargar las librerías requeridas por cypress 
 
