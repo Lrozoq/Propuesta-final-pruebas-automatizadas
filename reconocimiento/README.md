@@ -33,5 +33,10 @@ Con la libería [RIPuppet](https://github.com/TheSoftwareDesignLab/RIPuppetCours
 3. Estando en la carpeta RIPuppet ejecutar el siguiente comando para inicializar las pruebas <br> node index.js
 4. Esperar a que finalicen las pruebas
 
-## Revisión de resultados
-1. 
+## Exploración de resultados
+1. Instalar http-server con el siguiente comando: <br>npm install -g http-server
+2. Moverse a la carpeta results 
+3. Ejecutar el siguiente comando para crear un servidor local con los archivos del directorio actual: <br> http-server
+4. Visitar desde el navegador a la ruta: <br> http://localhost:8080/
+5. Explorar los resultados según el navegador que quiera reviasar
+
