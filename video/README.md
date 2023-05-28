@@ -1,1 +1,1 @@
-# Propuesta-final-pruebas-automatizadas
+# VIDEO DE LA ESTRATEGIA DE PRUEBAS
