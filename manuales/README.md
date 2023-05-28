@@ -30,7 +30,6 @@ Esta funcionalidad ofrece al usuario la opción de editar un tag ya creado, camb
 ### Eliminar Tag
 Esta funcionalidad ofrece al usuario la opción de eliminar un tag previamente creado
 
-....... ***AÑADIR EN LENGUAJE NATURAL DESCRIPCION DE LAS FUNCIONALIDADES***
 
 # Pruebas Manuales
 
@@ -44,5 +43,6 @@ Esta funcionalidad ofrece al usuario la opción de eliminar un tag previamente c
 
 # Resultado pruebas manuales
 
----- ***link EXEL***
+
+[inventario-pruebas-exploratorias.xlsx](https://github.com/Lrozoq/Propuesta-final-pruebas-automatizadas/files/11585027/inventario-pruebas-exploratorias.xlsx)
 
