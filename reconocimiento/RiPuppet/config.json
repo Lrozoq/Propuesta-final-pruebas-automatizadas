@@ -1,9 +1,9 @@
 {
     "url": "http://localhost:2368/ghost/#/signin",
     "headless": false,
-    "depthLevels": 6,
+    "depthLevels": 3,
     "inputValues": false,
-    "values": {"identification": "correoDePrueba@gmail.com",
-        "password": "@1234567890*"},
+    "values": {"identification": "pruebas_automaticas@gmail.com",
+        "password": "Uniandes2023"},
     "browsers": ["chromium", "firefox"]
 }
